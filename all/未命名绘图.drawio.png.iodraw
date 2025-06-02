@@ -246,7 +246,7 @@
           <mxGeometry x="310" y="50" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bft18J4UPsT5sC5sDU1H-5" value="深度学习" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;textDirection=vertical-lr;fontFamily=Times New Roman;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="430" y="50" width="30" height="60" as="geometry" />
+          <mxGeometry x="440" y="50" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bft18J4UPsT5sC5sDU1H-11" value="&lt;font&gt;单目摄像头 + 透视原理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;textDirection=vertical-lr;fontFamily=Times New Roman;direction=east;" vertex="1" parent="1">
           <mxGeometry x="130" y="130" width="40" height="70" as="geometry" />
@@ -273,7 +273,7 @@
           <mxGeometry x="440" y="130" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Bft18J4UPsT5sC5sDU1H-41" value="融合多模态数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;textDirection=vertical-lr;fontFamily=Times New Roman;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="480" y="130" width="130" height="30" as="geometry" />
+          <mxGeometry x="480" y="130" width="40" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
