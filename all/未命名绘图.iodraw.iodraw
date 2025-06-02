@@ -42,13 +42,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6AjTMaiqif_JiBEr-cjO-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="6AjTMaiqif_JiBEr-cjO-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="6AjTMaiqif_JiBEr-cjO-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="145" as="sourcePoint" />
             <mxPoint x="360" y="55" as="targetPoint" />
             <Array as="points">
               <mxPoint x="330" y="145" />
-              <mxPoint x="330" y="55" />
+              <mxPoint x="330" y="105" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -68,7 +68,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6AjTMaiqif_JiBEr-cjO-12" value="物理模型法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6AjTMaiqif_JiBEr-cjO-12" value="Dark Channel Prior" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="90" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
