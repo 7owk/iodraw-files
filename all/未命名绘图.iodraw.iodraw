@@ -89,6 +89,9 @@
             <mxPoint x="540" y="144.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6AjTMaiqif_JiBEr-cjO-18" value="雾图中非天空区域至少有一个颜色通道具有较低强度。用于估计透射率。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="130" width="200" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
