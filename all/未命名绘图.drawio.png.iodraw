@@ -275,6 +275,15 @@
         <mxCell id="Bft18J4UPsT5sC5sDU1H-41" value="融合多模态数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;textDirection=vertical-lr;fontFamily=Times New Roman;direction=east;" vertex="1" parent="1">
           <mxGeometry x="480" y="130" width="40" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="z4utj9pHsMP44eFwKbsA-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bft18J4UPsT5sC5sDU1H-3" target="Bft18J4UPsT5sC5sDU1H-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="140" as="sourcePoint" />
+            <mxPoint x="130" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
