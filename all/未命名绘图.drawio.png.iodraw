@@ -386,7 +386,7 @@
         <mxCell id="Bft18J4UPsT5sC5sDU1H-28" value="将图像分为反射率与光照成分" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="450" y="220" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bft18J4UPsT5sC5sDU1H-29" value="多尺度融合" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Bft18J4UPsT5sC5sDU1H-29" value="超声波雷达" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="280" y="260" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bft18J4UPsT5sC5sDU1H-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="Bft18J4UPsT5sC5sDU1H-29" target="Bft18J4UPsT5sC5sDU1H-31">
