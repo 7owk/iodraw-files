@@ -379,32 +379,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3k7ikBkKe1yjhAn6zfC6-12" value="雾图中非天空区域至少有一个颜色通道具有较低强度，用于估计透射率" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="450" y="50" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3k7ikBkKe1yjhAn6zfC6-16" value="利用雾图中亮度与饱和度的颜色衰减关系估计深度图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="450" y="90" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3k7ikBkKe1yjhAn6zfC6-19" value="图像中重复纹理可以用于建立非局部先验建模" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="450" y="130" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3k7ikBkKe1yjhAn6zfC6-24" value="增强对比度，适用于灰度图像" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="450" y="180" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3k7ikBkKe1yjhAn6zfC6-28" value="将图像分为反射率与光照成分" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="450" y="220" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3k7ikBkKe1yjhAn6zfC6-31" value="通过多个尺度的增强图像融合获得更自然的结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="450" y="260" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3k7ikBkKe1yjhAn6zfC6-36" value="端到端 CNN 网络预测透射图，然后恢复图像" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="450" y="310" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3k7ikBkKe1yjhAn6zfC6-40" value="直接输出去雾图像，无需估计透射率和大气光" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="450" y="350" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3k7ikBkKe1yjhAn6zfC6-43" value="将暗通道先验嵌入网络中，实现端到端去雾" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="450" y="390" width="200" height="30" as="geometry" />
+        <mxCell id="3k7ikBkKe1yjhAn6zfC6-44" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;世界坐标：&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;tl8_p3Alt31_lzEGJSSz&quot;&gt;车辆在现实世界中的三维坐标&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
