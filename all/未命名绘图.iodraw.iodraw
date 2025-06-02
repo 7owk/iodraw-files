@@ -71,7 +71,7 @@
         <mxCell id="6AjTMaiqif_JiBEr-cjO-12" value="Dark Channel Prior" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="50" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6AjTMaiqif_JiBEr-cjO-13" value="雾图中非天空区域至少有一个颜色通道具有较低强度。用于估计透射率。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6AjTMaiqif_JiBEr-cjO-13" value="雾图中非天空区域至少有一个颜色通道具有较低强度，用于估计透射率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="50" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6AjTMaiqif_JiBEr-cjO-12">
@@ -89,7 +89,7 @@
             <mxPoint x="540" y="104.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6AjTMaiqif_JiBEr-cjO-18" value="利用雾图中亮度与饱和度的颜色衰减关系估计深度图。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6AjTMaiqif_JiBEr-cjO-18" value="利用雾图中亮度与饱和度的颜色衰减关系估计深度图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="90" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-19" value="Non-local Dehazing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -101,7 +101,7 @@
             <mxPoint x="540" y="144.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6AjTMaiqif_JiBEr-cjO-22" value="图像中重复纹理可以用于建立非局部先验建模。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6AjTMaiqif_JiBEr-cjO-22" value="图像中重复纹理可以用于建立非局部先验建模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="130" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="6AjTMaiqif_JiBEr-cjO-26" parent="1">
