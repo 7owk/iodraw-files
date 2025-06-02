@@ -406,6 +406,18 @@
         <mxCell id="3k7ikBkKe1yjhAn6zfC6-51" value="透视投影" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="230" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3k7ikBkKe1yjhAn6zfC6-52" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;像素坐标：&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;像素坐标是像素在图像中的位置，像素坐标系一般将原点设置为左上角&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3k7ikBkKe1yjhAn6zfC6-53" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="3k7ikBkKe1yjhAn6zfC6-52" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3k7ikBkKe1yjhAn6zfC6-54" value="透视投影" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
