@@ -1,0 +1,49 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" scale="1" border="0" version="24.7.17">
+  <diagram id="F2J2B9jgODNH_m0YBJSK" name="第 3 页">
+    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3k7ikBkKe1yjhAn6zfC6-44" value="&lt;div&gt;&lt;font&gt;世界坐标：&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;车辆在现实世界中的三维坐标&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="280" y="80" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3k7ikBkKe1yjhAn6zfC6-45" value="&lt;div&gt;&lt;font&gt;摄像机坐标：&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;相机的光心为圆心，Z轴与相机光轴的重合，X轴与图像的Z轴重合，Y轴与图像的Y轴重合&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="280" y="160" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3k7ikBkKe1yjhAn6zfC6-46" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="3k7ikBkKe1yjhAn6zfC6-44" target="3k7ikBkKe1yjhAn6zfC6-45" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="150" as="sourcePoint" />
+            <mxPoint x="440" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3k7ikBkKe1yjhAn6zfC6-48" value="刚体变换" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="414" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3k7ikBkKe1yjhAn6zfC6-49" value="&lt;div&gt;&lt;font&gt;图像坐标：&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;X,Y轴与像素坐标系的u,v轴平行&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="280" y="260" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3k7ikBkKe1yjhAn6zfC6-50" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" target="3k7ikBkKe1yjhAn6zfC6-49" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="220" as="sourcePoint" />
+            <mxPoint x="440" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3k7ikBkKe1yjhAn6zfC6-51" value="透视投影" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="414" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3k7ikBkKe1yjhAn6zfC6-52" value="&lt;div&gt;&lt;font&gt;像素坐标：&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;像素坐标是像素在图像中的位置，像素坐标系一般将原点设置为左上角&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="280" y="340" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3k7ikBkKe1yjhAn6zfC6-53" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" target="3k7ikBkKe1yjhAn6zfC6-52" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3k7ikBkKe1yjhAn6zfC6-54" value="二次变换" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="414" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
