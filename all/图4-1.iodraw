@@ -31,7 +31,7 @@
         <mxCell id="3k7ikBkKe1yjhAn6zfC6-51" value="透视投影" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="414" y="230" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3k7ikBkKe1yjhAn6zfC6-52" value="&lt;div&gt;&lt;font&gt;像素坐标：&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;像素坐标是像素在图像中的位置，像素坐标系一般将原点设置为左上角&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="3k7ikBkKe1yjhAn6zfC6-52" value="&lt;div&gt;&lt;font&gt;像素坐标：&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;像素坐标是像素在图像中的位置，像素坐标系一般将原点设置为左上角&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="280" y="340" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3k7ikBkKe1yjhAn6zfC6-53" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" target="3k7ikBkKe1yjhAn6zfC6-52" edge="1">
