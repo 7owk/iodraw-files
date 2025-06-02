@@ -232,7 +232,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JGu5_YaJLLUcIbjsg_vQ" name="第 2 页">
-    <mxGraphModel dx="724" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -303,38 +303,11 @@
         <mxCell id="Bft18J4UPsT5sC5sDU1H-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;单目摄像头 + 透视原理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="50" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bft18J4UPsT5sC5sDU1H-12" value="雾图中非天空区域至少有一个颜色通道具有较低强度，用于估计透射率" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="450" y="50" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Bft18J4UPsT5sC5sDU1H-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="Bft18J4UPsT5sC5sDU1H-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="64.66" as="sourcePoint" />
-            <mxPoint x="450" y="64.66" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Bft18J4UPsT5sC5sDU1H-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;单应矩阵(IPM)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="90" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bft18J4UPsT5sC5sDU1H-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="Bft18J4UPsT5sC5sDU1H-16">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="104.66" as="sourcePoint" />
-            <mxPoint x="460" y="104.66" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bft18J4UPsT5sC5sDU1H-16" value="利用雾图中亮度与饱和度的颜色衰减关系估计深度图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="450" y="90" width="200" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Bft18J4UPsT5sC5sDU1H-17" value="三角测量法（双目）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="130" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Bft18J4UPsT5sC5sDU1H-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="Bft18J4UPsT5sC5sDU1H-19">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="144.66" as="sourcePoint" />
-            <mxPoint x="460" y="144.66" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bft18J4UPsT5sC5sDU1H-19" value="图像中重复纹理可以用于建立非局部先验建模" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="450" y="130" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bft18J4UPsT5sC5sDU1H-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" target="Bft18J4UPsT5sC5sDU1H-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -365,38 +338,11 @@
         <mxCell id="Bft18J4UPsT5sC5sDU1H-23" value="毫米波雷达" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="280" y="180" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bft18J4UPsT5sC5sDU1H-24" value="增强对比度，适用于灰度图像" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="450" y="180" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Bft18J4UPsT5sC5sDU1H-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="195" as="sourcePoint" />
-            <mxPoint x="450" y="194.66" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Bft18J4UPsT5sC5sDU1H-26" value="激光雷达(LiDAR)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="280" y="220" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bft18J4UPsT5sC5sDU1H-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" target="Bft18J4UPsT5sC5sDU1H-28">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="234.66" as="sourcePoint" />
-            <mxPoint x="460" y="234.66" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bft18J4UPsT5sC5sDU1H-28" value="将图像分为反射率与光照成分" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="450" y="220" width="200" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Bft18J4UPsT5sC5sDU1H-29" value="超声波雷达" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="280" y="260" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Bft18J4UPsT5sC5sDU1H-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="Bft18J4UPsT5sC5sDU1H-29" target="Bft18J4UPsT5sC5sDU1H-31">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="270" as="sourcePoint" />
-            <mxPoint x="450" y="270.34000000000003" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bft18J4UPsT5sC5sDU1H-31" value="通过多个尺度的增强图像融合获得更自然的结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="450" y="260" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bft18J4UPsT5sC5sDU1H-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" target="Bft18J4UPsT5sC5sDU1H-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -427,38 +373,11 @@
         <mxCell id="Bft18J4UPsT5sC5sDU1H-35" value="单目深度估计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="280" y="310" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bft18J4UPsT5sC5sDU1H-36" value="端到端 CNN 网络预测透射图，然后恢复图像" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="450" y="310" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Bft18J4UPsT5sC5sDU1H-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="325" as="sourcePoint" />
-            <mxPoint x="450" y="324.65999999999997" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bft18J4UPsT5sC5sDU1H-38" value="AOD-Net" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Bft18J4UPsT5sC5sDU1H-38" value="距离回归" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="280" y="350" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bft18J4UPsT5sC5sDU1H-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" target="Bft18J4UPsT5sC5sDU1H-40">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="364.65999999999997" as="sourcePoint" />
-            <mxPoint x="460" y="364.65999999999997" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bft18J4UPsT5sC5sDU1H-40" value="直接输出去雾图像，无需估计透射率和大气光" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="450" y="350" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Bft18J4UPsT5sC5sDU1H-41" value="DCPDN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Bft18J4UPsT5sC5sDU1H-41" value="融合多模态数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="280" y="390" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Bft18J4UPsT5sC5sDU1H-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" target="Bft18J4UPsT5sC5sDU1H-43">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="404.65999999999997" as="sourcePoint" />
-            <mxPoint x="460" y="404.65999999999997" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bft18J4UPsT5sC5sDU1H-43" value="将暗通道先验嵌入网络中，实现端到端去雾" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="450" y="390" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
