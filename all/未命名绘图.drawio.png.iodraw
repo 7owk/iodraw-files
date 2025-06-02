@@ -424,7 +424,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bft18J4UPsT5sC5sDU1H-35" value="DehazeNet" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Bft18J4UPsT5sC5sDU1H-35" value="单目深度估计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="280" y="310" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bft18J4UPsT5sC5sDU1H-36" value="端到端 CNN 网络预测透射图，然后恢复图像" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
