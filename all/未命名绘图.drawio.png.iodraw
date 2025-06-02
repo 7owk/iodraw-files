@@ -266,23 +266,7 @@
         <mxCell id="Bft18J4UPsT5sC5sDU1H-29" value="超声波雷达" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;textDirection=vertical-lr;fontFamily=Times New Roman;direction=east;" vertex="1" parent="1">
           <mxGeometry x="350" y="130" width="30" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Bft18J4UPsT5sC5sDU1H-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;textDirection=vertical-lr;fontFamily=Times New Roman;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="355" as="sourcePoint" />
-            <mxPoint x="440" y="355" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bft18J4UPsT5sC5sDU1H-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;textDirection=vertical-lr;fontFamily=Times New Roman;" edge="1" parent="1" target="Bft18J4UPsT5sC5sDU1H-41">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="355" as="sourcePoint" />
-            <mxPoint x="440" y="445" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="410" y="355" />
-              <mxPoint x="410" y="395" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bft18J4UPsT5sC5sDU1H-35" value="单目深度估计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;textDirection=vertical-lr;fontFamily=Times New Roman;direction=east;" vertex="1" parent="1">
+        <mxCell id="Bft18J4UPsT5sC5sDU1H-35" value="深度估计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;textDirection=vertical-lr;fontFamily=Times New Roman;direction=east;" vertex="1" parent="1">
           <mxGeometry x="400" y="130" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Bft18J4UPsT5sC5sDU1H-38" value="距离回归" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;textDirection=vertical-lr;fontFamily=Times New Roman;direction=east;" vertex="1" parent="1">
