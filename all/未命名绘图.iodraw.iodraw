@@ -151,7 +151,7 @@
             <mxPoint x="540" y="234.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6AjTMaiqif_JiBEr-cjO-31" value="利用雾图中亮度与饱和度的颜色衰减关系估计深度图。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6AjTMaiqif_JiBEr-cjO-31" value="将图像分为反射率与光照成分。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="220" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-32" value="自适应直方图均衡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
