@@ -69,7 +69,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-12" value="Dark Channel Prior" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="90" width="80" height="30" as="geometry" />
+          <mxGeometry x="360" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6AjTMaiqif_JiBEr-cjO-13" value="Dark Channel Prior" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="90" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
