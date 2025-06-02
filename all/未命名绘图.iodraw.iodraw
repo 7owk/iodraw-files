@@ -228,6 +228,9 @@
         <mxCell id="6AjTMaiqif_JiBEr-cjO-46" value="将暗通道先验嵌入网络中，实现端到端去雾" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="450" y="390" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="p7yPhzJcVE1kfzWL8R55-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
