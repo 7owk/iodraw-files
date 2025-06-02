@@ -20,6 +20,9 @@
         <mxCell id="6AjTMaiqif_JiBEr-cjO-3" value="物理模型法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="130" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6AjTMaiqif_JiBEr-cjO-4" value="图像增强法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
