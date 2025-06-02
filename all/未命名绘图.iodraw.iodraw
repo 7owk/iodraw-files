@@ -13,7 +13,7 @@
             <mxPoint x="250" y="145" as="targetPoint" />
             <Array as="points">
               <mxPoint x="200" y="235" />
-              <mxPoint x="200" y="145" />
+              <mxPoint x="200" y="105" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -130,7 +130,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6AjTMaiqif_JiBEr-cjO-26" value="Dark Channel Prior" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6AjTMaiqif_JiBEr-cjO-26" value="直方图均衡化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="180" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-27" value="雾图中非天空区域至少有一个颜色通道具有较低强度。用于估计透射率。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -138,8 +138,8 @@
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="154.66" as="sourcePoint" />
-            <mxPoint x="530" y="154.66" as="targetPoint" />
+            <mxPoint x="480" y="194.66" as="sourcePoint" />
+            <mxPoint x="530" y="194.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-29" value="Color Attenuation Prior" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
