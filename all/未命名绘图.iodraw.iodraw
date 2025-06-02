@@ -195,7 +195,7 @@
         <mxCell id="6AjTMaiqif_JiBEr-cjO-38" value="DehazeNet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="310" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6AjTMaiqif_JiBEr-cjO-39" value="增强对比度，适用于灰度图像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6AjTMaiqif_JiBEr-cjO-39" value="端到端 CNN 网络预测透射图，然后恢复图像。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="310" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
@@ -204,7 +204,7 @@
             <mxPoint x="530" y="324.65999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6AjTMaiqif_JiBEr-cjO-41" value="Retinex 算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6AjTMaiqif_JiBEr-cjO-41" value="AOD-Net" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="350" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="6AjTMaiqif_JiBEr-cjO-43" parent="1">
