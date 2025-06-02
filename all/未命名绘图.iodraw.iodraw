@@ -154,7 +154,7 @@
         <mxCell id="6AjTMaiqif_JiBEr-cjO-31" value="将图像分为反射率与光照成分。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="220" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6AjTMaiqif_JiBEr-cjO-32" value="自适应直方图均衡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6AjTMaiqif_JiBEr-cjO-32" value="多尺度融合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="260" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="6AjTMaiqif_JiBEr-cjO-34" parent="1">
@@ -163,7 +163,7 @@
             <mxPoint x="540" y="274.65999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6AjTMaiqif_JiBEr-cjO-34" value="图像中重复纹理可以用于建立非局部先验建模。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6AjTMaiqif_JiBEr-cjO-34" value="通过多个尺度的增强图像融合获得更自然的结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="260" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
