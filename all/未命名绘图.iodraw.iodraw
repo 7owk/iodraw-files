@@ -213,7 +213,7 @@
             <mxPoint x="540" y="364.65999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6AjTMaiqif_JiBEr-cjO-43" value="将图像分为反射率与光照成分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6AjTMaiqif_JiBEr-cjO-43" value="直接输出去雾图像，无需估计透射率和大气光。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="350" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-44" value="多尺度融合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
