@@ -243,10 +243,10 @@
           <mxGeometry x="182.5" y="50" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bft18J4UPsT5sC5sDU1H-4" value="基于硬件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;textDirection=vertical-lr;fontFamily=Times New Roman;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="290" y="60" width="30" height="80" as="geometry" />
+          <mxGeometry x="290" y="50" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bft18J4UPsT5sC5sDU1H-5" value="深度学习法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;textDirection=vertical-lr;fontFamily=Times New Roman;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="370" y="60" width="40" height="80" as="geometry" />
+          <mxGeometry x="510" y="30" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bft18J4UPsT5sC5sDU1H-11" value="&lt;font&gt;单目摄像头 + 透视原理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;textDirection=vertical-lr;fontFamily=Times New Roman;direction=east;" vertex="1" parent="1">
           <mxGeometry x="130" y="130" width="40" height="70" as="geometry" />
@@ -284,7 +284,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Bft18J4UPsT5sC5sDU1H-23" value="毫米波雷达" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;textDirection=vertical-lr;fontFamily=Times New Roman;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="440" y="170" width="130" height="30" as="geometry" />
+          <mxGeometry x="270" y="120" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bft18J4UPsT5sC5sDU1H-26" value="激光雷达(LiDAR)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;textDirection=vertical-lr;fontFamily=Times New Roman;direction=east;" vertex="1" parent="1">
           <mxGeometry x="440" y="210" width="130" height="30" as="geometry" />
