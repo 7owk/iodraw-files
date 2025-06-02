@@ -17,13 +17,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6AjTMaiqif_JiBEr-cjO-3" value="物理模型法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6AjTMaiqif_JiBEr-cjO-3" value="物理模型法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="150" y="90" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6AjTMaiqif_JiBEr-cjO-4" value="图像增强法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6AjTMaiqif_JiBEr-cjO-4" value="图像增强法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="150" y="220" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6AjTMaiqif_JiBEr-cjO-5" value="深度学习法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6AjTMaiqif_JiBEr-cjO-5" value="深度学习法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="150" y="350" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6AjTMaiqif_JiBEr-cjO-1" target="6AjTMaiqif_JiBEr-cjO-4" edge="1">
