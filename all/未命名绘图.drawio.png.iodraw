@@ -252,7 +252,7 @@
           <mxGeometry x="130" y="150" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Bft18J4UPsT5sC5sDU1H-14" value="&lt;font&gt;单应矩阵(IPM)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;textDirection=vertical-lr;fontFamily=Times New Roman;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="85" y="220" width="130" height="30" as="geometry" />
+          <mxGeometry x="175" y="150" width="35" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Bft18J4UPsT5sC5sDU1H-17" value="三角测量法（双目）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;textDirection=vertical-lr;fontFamily=Times New Roman;direction=east;" vertex="1" parent="1">
           <mxGeometry x="90" y="250" width="130" height="30" as="geometry" />
