@@ -374,7 +374,7 @@
             <mxPoint x="450" y="194.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bft18J4UPsT5sC5sDU1H-26" value="Retinex 算法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Bft18J4UPsT5sC5sDU1H-26" value="激光雷达(LiDAR)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="280" y="220" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bft18J4UPsT5sC5sDU1H-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" target="Bft18J4UPsT5sC5sDU1H-28">
