@@ -382,7 +382,7 @@
         <mxCell id="3k7ikBkKe1yjhAn6zfC6-44" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;世界坐标：&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;tl8_p3Alt31_lzEGJSSz&quot;&gt;车辆在现实世界中的三维坐标&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="80" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3k7ikBkKe1yjhAn6zfC6-45" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;世界坐标：&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;tl8_p3Alt31_lzEGJSSz&quot;&gt;车辆在现实世界中的三维坐标&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3k7ikBkKe1yjhAn6zfC6-45" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;摄像机坐标：&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;以相机的光心为圆心，Z轴与相机的光轴的重合，X轴与图像的Z轴重合，Y轴与图像的Y轴重合&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3k7ikBkKe1yjhAn6zfC6-46" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3k7ikBkKe1yjhAn6zfC6-44" target="3k7ikBkKe1yjhAn6zfC6-45">
