@@ -394,7 +394,7 @@
         <mxCell id="3k7ikBkKe1yjhAn6zfC6-48" value="刚体变换" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3k7ikBkKe1yjhAn6zfC6-49" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;世界坐标：&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;tl8_p3Alt31_lzEGJSSz&quot;&gt;车辆在现实世界中的三维坐标&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3k7ikBkKe1yjhAn6zfC6-49" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;图像坐标：&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;X Y轴与像素坐标系的u，v轴平行&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="260" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3k7ikBkKe1yjhAn6zfC6-50" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="3k7ikBkKe1yjhAn6zfC6-49" parent="1">
@@ -403,7 +403,7 @@
             <mxPoint x="440" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3k7ikBkKe1yjhAn6zfC6-51" value="刚体变换" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3k7ikBkKe1yjhAn6zfC6-51" value="透视投影" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="230" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
