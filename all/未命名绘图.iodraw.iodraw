@@ -195,7 +195,7 @@
         <mxCell id="6AjTMaiqif_JiBEr-cjO-38" value="DehazeNet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="310" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6AjTMaiqif_JiBEr-cjO-39" value="端到端 CNN 网络预测透射图，然后恢复图像。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6AjTMaiqif_JiBEr-cjO-39" value="端到端 CNN 网络预测透射图，然后恢复图像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="310" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
@@ -213,7 +213,7 @@
             <mxPoint x="540" y="364.65999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6AjTMaiqif_JiBEr-cjO-43" value="直接输出去雾图像，无需估计透射率和大气光。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6AjTMaiqif_JiBEr-cjO-43" value="直接输出去雾图像，无需估计透射率和大气光" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="350" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-44" value="DCPDN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -225,7 +225,7 @@
             <mxPoint x="540" y="404.65999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6AjTMaiqif_JiBEr-cjO-46" value="通过多个尺度的增强图像融合获得更自然的结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6AjTMaiqif_JiBEr-cjO-46" value="将暗通道先验嵌入网络中，实现端到端去雾" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="390" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
