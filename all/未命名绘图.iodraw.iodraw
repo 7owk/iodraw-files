@@ -18,7 +18,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-3" value="物理模型法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="130" width="80" height="30" as="geometry" />
+          <mxGeometry x="230" y="90" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-4" value="图像增强法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="220" width="80" height="30" as="geometry" />
@@ -44,65 +44,65 @@
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="6AjTMaiqif_JiBEr-cjO-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="145" as="sourcePoint" />
-            <mxPoint x="360" y="55" as="targetPoint" />
+            <mxPoint x="310" y="105" as="sourcePoint" />
+            <mxPoint x="360" y="15" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="330" y="145" />
               <mxPoint x="330" y="105" />
+              <mxPoint x="330" y="65" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="145" as="sourcePoint" />
-            <mxPoint x="360" y="145" as="targetPoint" />
+            <mxPoint x="310" y="105" as="sourcePoint" />
+            <mxPoint x="360" y="105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="6AjTMaiqif_JiBEr-cjO-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="145" as="sourcePoint" />
-            <mxPoint x="360" y="235" as="targetPoint" />
+            <mxPoint x="310" y="105" as="sourcePoint" />
+            <mxPoint x="360" y="195" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="330" y="105" />
               <mxPoint x="330" y="145" />
-              <mxPoint x="330" y="185" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-12" value="Dark Channel Prior" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="90" width="120" height="30" as="geometry" />
+          <mxGeometry x="360" y="50" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-13" value="雾图中非天空区域至少有一个颜色通道具有较低强度。用于估计透射率。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="90" width="200" height="30" as="geometry" />
+          <mxGeometry x="530" y="50" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="104.66" as="sourcePoint" />
-            <mxPoint x="530" y="104.66" as="targetPoint" />
+            <mxPoint x="480" y="64.66" as="sourcePoint" />
+            <mxPoint x="530" y="64.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-15" value="Color Attenuation Prior" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="130" width="130" height="30" as="geometry" />
+          <mxGeometry x="360" y="90" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="6AjTMaiqif_JiBEr-cjO-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="104.66" as="sourcePoint" />
+            <mxPoint x="540" y="104.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6AjTMaiqif_JiBEr-cjO-18" value="利用雾图中亮度与饱和度的颜色衰减关系估计深度图。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="90" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6AjTMaiqif_JiBEr-cjO-19" value="Non-local Dehazing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="130" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6AjTMaiqif_JiBEr-cjO-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="6AjTMaiqif_JiBEr-cjO-22" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="144.66" as="sourcePoint" />
             <mxPoint x="540" y="144.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6AjTMaiqif_JiBEr-cjO-18" value="利用雾图中亮度与饱和度的颜色衰减关系估计深度图。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="130" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6AjTMaiqif_JiBEr-cjO-19" value="Non-local Dehazing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="170" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6AjTMaiqif_JiBEr-cjO-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="6AjTMaiqif_JiBEr-cjO-22" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="184.66" as="sourcePoint" />
-            <mxPoint x="540" y="184.66" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-22" value="图像中重复纹理可以用于建立非局部先验建模。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="170" width="200" height="30" as="geometry" />
+          <mxGeometry x="530" y="130" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="6AjTMaiqif_JiBEr-cjO-26" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -138,8 +138,8 @@
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="194.66" as="sourcePoint" />
-            <mxPoint x="530" y="194.66" as="targetPoint" />
+            <mxPoint x="480" y="154.66" as="sourcePoint" />
+            <mxPoint x="530" y="154.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6AjTMaiqif_JiBEr-cjO-29" value="Color Attenuation Prior" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
