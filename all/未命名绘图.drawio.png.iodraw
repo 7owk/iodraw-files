@@ -240,7 +240,7 @@
           <mxGeometry x="130" y="10" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bft18J4UPsT5sC5sDU1H-3" value="基于视觉" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;textDirection=vertical-lr;fontFamily=Times New Roman;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="182.5" y="60" width="30" height="80" as="geometry" />
+          <mxGeometry x="182.5" y="50" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bft18J4UPsT5sC5sDU1H-4" value="基于硬件设备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;textDirection=vertical-lr;fontFamily=Times New Roman;direction=east;" vertex="1" parent="1">
           <mxGeometry x="290" y="60" width="40" height="80" as="geometry" />
